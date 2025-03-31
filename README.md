@@ -7,9 +7,7 @@ Since the onset of the full-scale invasion in Ukraine, the role of data in educa
 The idea of Comprehensive Repository of Education Data in Ukraine is to facilitate data exchange between different educational organizations, foster research and informed project and  policy decisions. This repository supports the collection and accessibility of critical data about education in Ukraine for research, project and policy development.
 
 **Tags:**
-data_sources 
-ukranian_education 
-education_and_war
+data_sources, ukranian_education, education_and_war
 
 | Name of dataset                          | Description of dataset                                                                                           | Time period       | Data source                                                                                              | Added by         |
 |------------------------------------------|---------------------------------------------------------------------------------------------------------------|-------------------|---------------------------------------------------------------------------------------------------------|-----------------|
